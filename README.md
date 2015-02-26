@@ -1,6 +1,5 @@
 # Edmonton Arduino GPS
 
-#### Description:  
 This project allows a user to view a map of Edmonton on an Arduino with an lcd and joystick attached. The viewer can select their current location and target destination. This information is then sent back to the server which calculates the ideal route through Edmonton using Dijkstra's algorithm. To route is then sent back and displayed on the screen to the client.
 
 #### Contributors:
